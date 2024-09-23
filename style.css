@@ -1,0 +1,70 @@
+.heading{
+   justify-content: space-between;
+    display:flex;
+    flex-direction:row;
+}
+.google{display:flex;
+    justify-content: center;
+}
+.google button{
+    margin-left:5px;
+}
+.nav{
+    border:2px solid white;
+    
+}
+.nav ol{
+    display: flex;
+    background-color:rgb(68, 189, 216);
+    list-style-type: none;
+    justify-content: space-between;
+    margin-bottom:0px;
+}
+.nav ol li{
+    display:flex;
+    padding: 20px;
+    border-right:2px solid white;
+ padding-right:80px; 
+}
+.nav img{
+    width:1650px;
+}
+.buttons{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.btn{font-size: 30px;
+    background-color: rgb(211, 204, 204);
+    display:flex;
+    flex-direction: row;
+    margin:0px;
+  border:2px solid grey;
+  width:400px ;
+  border-radius:30px;
+}
+.mainmain{
+    
+display:flex;
+justify-content: space-between;
+}
+.table{
+    font-size: 10;
+}
+.table img{
+    height: 50px;
+    width: 300px;
+    margin-left:300px;
+}
+
+.superlist{
+    display:flex;
+    flex-direction:row;
+    background-color: rgb(219, 206, 206);
+}
+.form{
+    height:100px;
+    width: 400px;
+    margin-left: 800px;
+    border-left:2px solid white;
+}
